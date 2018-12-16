@@ -6,7 +6,7 @@ GitHub Résumé is **opt-in**. To make your resume visible, just **star** [this 
 
 ##### To view your résumé, go to `https://resume.github.io/?yourusername` or follow the instructions on the [home page](https://resume.github.io/).
 
-Great for all the tech-savy bosses who want to have a **quick view** of person's git/github activity, _before the interview_.
+Great for all the tech-savy bosses who want to have a **quick view** of a person's git/github activity, _before the interview_.
 
 ### Development
 
